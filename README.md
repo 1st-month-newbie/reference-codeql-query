@@ -21,7 +21,7 @@ A grading script exists under `.github/workflows/grading.yml`. You do not need t
 
 </details>
 -->
-
+ 
 <!-- OPTIONAL, only required for exercises that use orgs
 <details><summary> 👥 About the use of organizations in this exercise</summary>
 
